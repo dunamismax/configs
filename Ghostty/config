@@ -1,0 +1,10 @@
+theme=nord
+background="#1C1F24"
+window-height=30
+window-width=110
+
+title="zsh"
+window-title-font-family="Open Sans"
+
+font-family="FiraCode Nerd Font Mono"
+font-size=14
