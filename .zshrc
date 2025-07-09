@@ -30,7 +30,7 @@ case ":$PATH:" in
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
 
-# Your Gemini API Key is loaded from ~/.zshenv
+# Your dunamismax API Key is loaded from ~/.zshenv
 
 # ------------------------------------------------------------------------------
 # Zsh Configuration
